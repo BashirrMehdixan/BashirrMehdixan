@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdikhan Bashir</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashirrmehdikhan" alt="bashirrmehdikhan" /></a> </p>
 
-- 👯 I’m looking to collaborate on [https://github.com/BashirrMehdixan/etrade_vite](https://github.com/BashirrMehdixan/etrade_vite)
-
-- 🤝 I’m looking for help with [https://github.com/BashirrMehdixan/movie-vite](https://github.com/BashirrMehdixan/movie-vite)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehdixan-bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdixan-bashir" height="30" width="40" /></a>
